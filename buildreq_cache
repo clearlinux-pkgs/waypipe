@@ -1,0 +1,12 @@
+0.8.6
+libva-dev
+pkgconfig(gbm)
+pkgconfig(libavcodec)
+pkgconfig(libavutil)
+pkgconfig(libdrm)
+pkgconfig(liblz4)
+pkgconfig(libswscale)
+pkgconfig(libva)
+pkgconfig(libzstd)
+pkgconfig(scdoc)
+pkgconfig(weston)

@@ -1,0 +1,8 @@
+libavcodec.so.58
+libavutil.so.56
+libc.so.6
+libgbm.so.1
+liblz4.so.1
+libswscale.so.5
+libva.so.2
+libzstd.so.1
