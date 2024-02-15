@@ -7,7 +7,7 @@
 #
 Name     : waypipe
 Version  : 0.8.6
-Release  : 13
+Release  : 14
 URL      : https://gitlab.freedesktop.org/mstoeckl/waypipe/-/archive/v0.8.6/waypipe-v0.8.6.tar.gz
 Source0  : https://gitlab.freedesktop.org/mstoeckl/waypipe/-/archive/v0.8.6/waypipe-v0.8.6.tar.gz
 Summary  : No detailed summary available
