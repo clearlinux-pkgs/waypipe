@@ -1,4 +1,4 @@
-0.9.1
+0.8.6
 libva-dev
 pkgconfig(gbm)
 pkgconfig(libavcodec)
