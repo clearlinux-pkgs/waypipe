@@ -7,7 +7,7 @@
 #
 Name     : waypipe
 Version  : 0.9.2
-Release  : 33
+Release  : 34
 URL      : https://gitlab.freedesktop.org/mstoeckl/waypipe/-/archive/v0.9.2/waypipe-v0.9.2.tar.gz
 Source0  : https://gitlab.freedesktop.org/mstoeckl/waypipe/-/archive/v0.9.2/waypipe-v0.9.2.tar.gz
 Summary  : No detailed summary available
